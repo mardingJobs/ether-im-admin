@@ -1,5 +1,5 @@
-## 平台简介
-
+## Ether-IM平台简介
+提供消息检索、在线用户管理、日志查询、服务监控等功能。
 
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Redis & Jwt。
@@ -34,6 +34,4 @@
 ## 在线体验
 
 - admin/admin123
-
-演示地址：http://vue.ruoyi.vip  
-文档地址：http://doc.ruoyi.vip
+演示地址：http://vue.ruoyi.vip

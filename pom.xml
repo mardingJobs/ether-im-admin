@@ -178,7 +178,7 @@
             <!-- 通用工具-->
             <dependency>
                 <groupId>com.ruoyi</groupId>
-                <artifactId>ruoyi-common</artifactId>
+                <artifactId>ether-im-admin-common</artifactId>
                 <version>${ruoyi.version}</version>
             </dependency>
 
@@ -191,7 +191,7 @@
         <module>ruoyi-system</module>
         <module>ruoyi-quartz</module>
         <module>ruoyi-generator</module>
-        <module>ruoyi-common</module>
+        <module>ether-im-admin-common</module>
     </modules>
     <packaging>pom</packaging>
 
